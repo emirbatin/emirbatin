@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Emir</h1>
 <h3 align="center">I am a student who has an interest in software.</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <h3 align="left">How can you contact me:</h3>
 
