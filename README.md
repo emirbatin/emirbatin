@@ -22,10 +22,11 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
  <a href="https://flutter.dev/docs" target="_blank"> <img src="https://i1.wp.com/www.muratoner.net/wp-content/uploads/2019/01/flutterlogo.png?fit=800%2C800&ssl=1" alt="flutter" width="27" height="30"/> </a>
   <a href="https://kotlinlang.org/" target="_blank"> <img src="https://www.logo.wine/a/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.svg" alt="flutter" width="27" height="30"/> </a>
+ <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://developer.apple.com/swift/images/swift-og.png" alt="vs" width="30" height="30"/> </a>
  <h3 align="left">Tools:</h3>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="vs" width="30" height="30"/> </a>
-<a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://developer.apple.com/swift/images/swift-og.png" alt="vs" width="30" height="30"/> </a>
+<a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="vs" width="30" height="30"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" alt="figma" width="30" height="30"/> </a>
 <a href="https://www.adobe.com/tr/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="ps" width="30" height="30"/> </a>
 <!--
