@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Emir</h1>
-<h3 align="center">Web Developer&Designer</h3>
+<h3 align="center">Developer & Designer</h3>
 <h3 align="center">I am a student who has an interest in software.</h3>
 
 <h3 align="left">How can you contact me:</h3>
@@ -25,6 +25,7 @@
  <h3 align="left">Tools:</h3>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="vs" width="30" height="30"/> </a>
+<a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://developer.apple.com/swift/images/swift-og.png" alt="vs" width="30" height="30"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" alt="figma" width="30" height="30"/> </a>
 <a href="https://www.adobe.com/tr/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="ps" width="30" height="30"/> </a>
 <!--
