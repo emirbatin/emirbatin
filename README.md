@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Batin</h1>
 <h3 align="center">A student and junior developer from Turkiye</h3>
 
+<p align="left"> <a href="https://twitter.com/emirbatink" target="blank"><img src="https://img.shields.io/twitter/follow/emirbatink?logo=twitter&style=for-the-badge" alt="emirbatink" /></a> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emirbatin&label=Profile%20views&color=0e75b6&style=flat" alt="emirbatin" /> </p>
 
 - 🌱 I’m currently learning **Unreal Engine and Unity for Game Development**
 
@@ -23,10 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emirbatin&show_icons=true&theme=dark&title_color=cce8b5&text_color=ffffff&bg_color=444444&hide_border=true&locale=en" alt="emirbatin" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirbatin&show_icons=true&theme=dark&title_color=cce8b5&text_color=ffffff&bg_color=444444&hide_border=true&locale=en&layout=compact" alt="emirbatin" /></p> <br>
-
-<p align="left"> <a href="https://twitter.com/emirbatink" target="blank"><img src="https://img.shields.io/twitter/follow/emirbatink?logo=twitter&style=for-the-badge" alt="emirbatink" /></a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emirbatin&label=Profile%20views&color=0e75b6&style=flat" alt="emirbatin" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirbatin&show_icons=true&theme=dark&title_color=cce8b5&text_color=ffffff&bg_color=444444&hide_border=true&locale=en&layout=compact" alt="emirbatin" /></p>
 
 
