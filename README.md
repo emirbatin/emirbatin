@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirbatin&label=Profile%20views&color=0e75b6&style=flat" alt="emirbatin" /> </p>
 
-- 🌱 I’m currently learning **Unreal Engine and Unity for Game Development**
+- 🌱 I’m currently learning **Data Mining & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://www.emirbatinkaraoglan.com](https://www.emirbatinkaraoglan.com)
 
