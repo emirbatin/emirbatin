@@ -26,9 +26,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirbatin&show_icons=true&theme=dark&title_color=cce8b5&text_color=ffffff&bg_color=444444&hide_border=true&locale=en&layout=compact" alt="emirbatin" /></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![snake gif](https://github.com/emirbatin/emirbatin/blob/output/github-contribution-grid-snake.gif)
 
