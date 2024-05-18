@@ -11,17 +11,14 @@
 - 📫 How to reach me **info@emirbatinkaraoglan.com**
 
 - ⚡ Fun fact **I like watching anime, digital drawing and listening to music.**
-<div>
 
 <h3 align="left">Connect with me:</h3>
-<div>
 <p align="left">
 <a href="https://twitter.com/emirbatink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emirbatink" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emirbatin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emirbatin" height="30" width="40" /></a>
 <a href="https://instagram.com/emirbatinkaraoglan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emirbatinkaraoglan" height="30" width="40" /></a>
 </p>
-<div>
-  
+
 <h3 align="left">Languages and Tools:</h3>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -35,6 +32,7 @@
 
 <br />
 <br />
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -43,9 +41,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=emirbatin&show_icons=true&theme=dark&title_color=cce8b5&text_color=ffffff&bg_color=444444&hide_border=true&locale=en" alt="emirbatin" />
   </div>
 </details>
-
-<br />
-
 
 <picture>
   <source
