@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://www.emirbatinkaraoglan.com](https://www.emirbatinkaraoglan.com)
+- 👨‍💻 All of my projects are available at [https://www.codewithbatin.com](https://www.codewithbatin.com)
 
 - 📫 How to reach me **info@emirbatinkaraoglan.com**
 
