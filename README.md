@@ -25,6 +25,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emirbatin&show_icons=true&theme=dark&title_color=cce8b5&text_color=ffffff&bg_color=444444&hide_border=true&locale=en" alt="emirbatin" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirbatin&show_icons=true&theme=dark&title_color=cce8b5&text_color=ffffff&bg_color=444444&hide_border=true&locale=en&layout=compact" alt="emirbatin" /></p>
+<div>
+![snake gif](https://github.com/emirbatin/emirbatin/blob/output/github-contribution-grid-snake.gif)  
+</div>
 
-![snake gif](https://github.com/emirbatin/emirbatin/blob/output/github-contribution-grid-snake.gif)
 
