@@ -1,5 +1,3 @@
-![snake gif](https://github.com/emirbatin/emirbatin/blob/output/github-contribution-grid-snake.gif)
-
 <h1 align="center">Hi 👋, I'm Batin</h1>
 <h3 align="center">A student and junior developer from Turkiye</h3>
 
