@@ -22,14 +22,15 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://res.cloudinary.com/dcy6ogtc1/image/upload/v1718636547/icons8-html-500_xp0ufs.png" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://res.cloudinary.com/dcy6ogtc1/image/upload/v1718637565/icons8-css-500_mkxt3d.png" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://res.cloudinary.com/dcy6ogtc1/image/upload/v1718636963/js_y3n0sv.png" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://res.cloudinary.com/dcy6ogtc1/image/upload/v1718637396/Icons_kkbf07.png" style="padding-right:10px;" />
-<img align="left" alt="ExpressJS" width="26px" src="https://res.cloudinary.com/dcy6ogtc1/image/upload/v1718637461/icons8-express-js-500_ikszk1.png" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://res.cloudinary.com/dcy6ogtc1/image/upload/v1718636554/icons8-mongo-db-500_ioi2ta.png" style="padding-right:10px;" />
-<img align="left" alt="Swift" width="26px" src="https://res.cloudinary.com/dcy6ogtc1/image/upload/v1718636551/icons8-swift-500_jhhdpt.png" style="padding-right:10px;" />
-<img align="left" alt="Flutter" width="26px" src="https://res.cloudinary.com/dcy6ogtc1/image/upload/v1718637640/flutter_b3cz0b.png" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://res.cloudinary.com/dcy6ogtc1/image/upload/v1718639275/HTML_hekcfa.png" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://res.cloudinary.com/dcy6ogtc1/image/upload/v1718639270/CSS_zordrv.png" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://res.cloudinary.com/dcy6ogtc1/image/upload/v1718639295/js_o7fqje.png" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://res.cloudinary.com/dcy6ogtc1/image/upload/v1718639276/Icons_tt297f.png" style="padding-right:10px;" />
+<img align="left" alt="NodeJS" width="26px" src="https://res.cloudinary.com/dcy6ogtc1/image/upload/v1718639299/node_z1lzev.png" style="padding-right:10px;" />
+<img align="left" alt="ExpressJS" width="26px" src="https://res.cloudinary.com/dcy6ogtc1/image/upload/v1718639684/icons8-express-js-500_azef08.png" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://res.cloudinary.com/dcy6ogtc1/image/upload/v1718639296/mongo_uoyqxq.png" style="padding-right:10px;" />
+<img align="left" alt="Swift" width="26px" src="https://res.cloudinary.com/dcy6ogtc1/image/upload/v1718639302/swift_xrfqii.png" style="padding-right:10px;" />
+<img align="left" alt="Flutter" width="26px" src="https://res.cloudinary.com/dcy6ogtc1/image/upload/v1718639273/flutter_rikt8f.png" style="padding-right:10px;" />
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
