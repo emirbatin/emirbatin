@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.codewithbatin.com](https://www.codewithbatin.com)
 
-- 📫 How to reach me **msg@codewithbatin**
+- 📫 How to reach me **msg@codewithbatin.com**
 
-- ⚡ Fun fact **I like watching anime, digital drawing and listening to music.**
+- ⚡ Fun fact **I like watching dramas, digital drawing and listening to music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
