@@ -21,7 +21,7 @@
 
 <h3 align="left">Also you can check my Medium page:</h3>
 <p align="left">
-<a href="https://ebatin.medium.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="emirbatink" height="30" width="40" /></a>
+<a href="https://ebatin.medium.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="emirbatink" height="40" width="40" /></a>
 </p>
 
 
