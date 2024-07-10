@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.codewithbatin.com](https://www.codewithbatin.com)
 
-- 📫 How to reach me **info@emirbatinkaraoglan.com**
+- 📫 How to reach me **msg@codewithbatin**
 
 - ⚡ Fun fact **I like watching anime, digital drawing and listening to music.**
 
