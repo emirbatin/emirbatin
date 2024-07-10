@@ -19,6 +19,12 @@
 <a href="https://instagram.com/emirbatinkaraoglan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emirbatinkaraoglan" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Also you can check my Medium page:</h3>
+<p align="left">
+<a href="https://ebatin.medium.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="emirbatink" height="30" width="40" /></a>
+</p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
