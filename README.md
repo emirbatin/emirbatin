@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/emirbatink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emirbatink" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emirbatin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emirbatin" height="30" width="40" /></a>
-<a href="https://instagram.com/emirbatinkaraoglan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emirbatinkaraoglan" height="30" width="40" /></a>
+<a href="https://instagram.com/instabatin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emirbatinkaraoglan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Also you can check my Medium page:</h3>
