@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.codewithbatin.com](https://www.codewithbatin.com)
 
-- 📫 How to reach me **msg@codewithbatin.com**
+- 📫 How to reach me **batin@cretique.net**
 
 - ⚡ Fun fact **I like watching dramas, digital drawing and listening to music.**
 
