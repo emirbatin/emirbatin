@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://www.codewithbatin.com](https://www.codewithbatin.com)
+- 👨‍💻 All of my projects are available at [https://www.codewithbatin.com](https://batin.works)
 
 - 📫 How to reach me **batin@cretique.net**
 
